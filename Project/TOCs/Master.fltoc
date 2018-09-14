@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/A_Introduction Topics/Getting Started.htm">
+    Link="/Content/AA/Getting Started.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Introduction Topics/Basic Steps.htm" />
+      Link="/Content/AA/Basic Steps.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Introduction Topics/Whats New.htm" />
+      Link="/Content/AA/Whats New.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
